@@ -36,9 +36,4 @@ Tasks to implement and analyze:
 Propose a **new class of activation functions** inspired by Kolmogorov's theorem, implement and test it.
 
 
-- Structuring your full report?
-- Writing a minimal KAN implementation?
-- Comparing it with MLPs using PyTorch or another framework?
-- Exploring the Kolmogorov Superposition Theorem in a digestible way?
 
-Let me know what you'd like to focus on first!
